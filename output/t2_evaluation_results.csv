@@ -1,0 +1,7 @@
+Dataset_Name,Gamma,Type,mAP@0.5,mAP@0.5:0.95,Precision,Recall
+T2_gamma_1.5_Raw,gamma_1.5,Raw,0.7283,0.3931,0.8516,0.6498
+T2_gamma_2.0_Raw,gamma_2.0,Raw,0.6078,0.2912,0.8247,0.523
+T2_gamma_2.5_Raw,gamma_2.5,Raw,0.3303,0.1518,0.5636,0.3518
+T2_gamma_1.5_CLAHE,gamma_1.5,CLAHE,0.7261,0.3884,0.9082,0.6619
+T2_gamma_2.0_CLAHE,gamma_2.0,CLAHE,0.6713,0.3464,0.7945,0.5907
+T2_gamma_2.5_CLAHE,gamma_2.5,CLAHE,0.6263,0.307,0.7549,0.5878

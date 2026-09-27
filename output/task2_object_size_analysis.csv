@@ -1,0 +1,3 @@
+Dataset,Instances,Median_area_px2_native,Mean_area_px2_native,Median_width_px_native,Median_height_px_native,Pct_below_COCO_small,Height_after_resize_640,Area_after_resize_640
+"T1 (Roboflow daylight, native 640x640)",505,12604.0,37087.2,128.0,97.0,7.9,,
+"T3 (Bucko dusk, native 1920x1080)",601,2722.6,3778.7,88.5,31.5,8.3,10.5,302.5

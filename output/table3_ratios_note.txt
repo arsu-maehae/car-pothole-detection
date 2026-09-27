@@ -1,0 +1,2 @@
+Native scale ratio: 4.63x
+Effective scale ratio at imgsz=640: 41.7x

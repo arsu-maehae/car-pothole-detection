@@ -1,0 +1,9 @@
+train: images
+val: images
+test: images
+
+nc: 3
+names:
+  0: Drain Hole
+  1: Pothole
+  2: Sewer Cover

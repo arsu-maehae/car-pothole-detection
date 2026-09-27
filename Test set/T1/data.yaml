@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 3
+names: ['Drain Hole', 'Pothole', 'Sewer Cover']
+
+roboflow:
+  workspace: intel-unnati-training-program
+  project: pothole-detection-bqu6s
+  version: 9
+  license: MIT
+  url: https://universe.roboflow.com/intel-unnati-training-program/pothole-detection-bqu6s/dataset/9

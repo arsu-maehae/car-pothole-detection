@@ -1,0 +1,5 @@
+Experiment,Config_Name,T1_mAP50,T3_mAP50_640,T3_mAP50_1280,T3_mAP50_1920
+E0,Baseline,0.7471,0.0092,0.0158,0.0147
+E1,Baseline + CLAHE,0.6619,0.0223,0.0269,0.0258
+E3,Adverse-augmented,0.735,0.0025,0.0131,
+E4,Adverse-augmented + CLAHE,0.7309,0.0083,0.0161,

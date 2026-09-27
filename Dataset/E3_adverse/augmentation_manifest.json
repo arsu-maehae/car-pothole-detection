@@ -1,0 +1,46 @@
+{
+  "created_utc": "2026-09-19T05:23:45.159526+00:00",
+  "seed": 42,
+  "source": "E:\\works\\cpre\\term7\\image and processing\\project\\datasets\\Pothole Detection.v9i.yolov8",
+  "policy": "original train + one adverse copy per train image; valid/test unchanged",
+  "transforms": {
+    "RandomRain": {
+      "p": 0.15
+    },
+    "RandomFog": {
+      "fog_coef_range": [
+        0.1,
+        0.4
+      ],
+      "p": 0.15
+    },
+    "MotionBlur": {
+      "blur_limit": 7,
+      "p": 0.2
+    },
+    "RandomBrightnessContrast": {
+      "brightness_limit": [
+        -0.5,
+        0.1
+      ],
+      "contrast_limit": [
+        -0.2,
+        0.2
+      ],
+      "p": 0.3
+    },
+    "ISONoise": {
+      "p": 0.15
+    }
+  },
+  "counts": {
+    "train_images": 6066,
+    "train_labels": 6066,
+    "valid_images": 491,
+    "valid_labels": 491,
+    "test_images": 246,
+    "test_labels": 246
+  },
+  "extra_retries_when_all_transforms_skipped": 1564,
+  "fallback_darkening_count": 0
+}

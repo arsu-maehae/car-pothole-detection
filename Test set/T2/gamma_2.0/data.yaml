@@ -1,0 +1,8 @@
+path: /content/drive/MyDrive/Image_Project/Dataset/T2/gamma_2.0
+train: images
+val: images
+test: images
+names:
+- Drain Hole
+- Pothole
+- Sewer Cover

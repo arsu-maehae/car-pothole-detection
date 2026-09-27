@@ -1,0 +1,7 @@
+Metric,T1,T3
+Instances,505.0,601.0
+"Median box area, native (px²)",12604.0,2722.6
+"Median box height, native (px)",97.0,31.5
+"% below COCO small (1024 px²), native",7.9,8.3
+Area presented to model at imgsz=640 (px²),12604.0,302.5
+Height presented to model at imgsz=640 (px),97.0,10.5

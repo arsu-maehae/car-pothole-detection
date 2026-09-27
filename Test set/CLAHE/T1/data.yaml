@@ -1,0 +1,8 @@
+path: /content/drive/MyDrive/Image_Project/Dataset/CLAHE/T1
+train: images
+val: images
+test: images
+names:
+- Drain Hole
+- Pothole
+- Sewer Cover
