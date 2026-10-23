@@ -108,8 +108,6 @@ Real-night performance is also affected by object scale. At an inference size of
 
 ## Code
 
-### Person B
-
 | File | Purpose |
 |---|---|
 | `compare_backbones.py` | Trains YOLOv8n, YOLO11n, and YOLO12n for 40 epochs each. |
@@ -120,9 +118,6 @@ Real-night performance is also affected by object scale. At an inference size of
 | `check_bucko_boxes.py` | Renders boxes for visual verification. |
 | `check_roboflow_cover_classes.py` | Verifies the Roboflow target classes. |
 
-### Person C
-
-Person C's folder contains the T2 synthetic-dark and CLAHE preprocessing work.
 
 ## Models
 
@@ -144,7 +139,6 @@ The `output` folder contains:
 
 ## Environment
 
-The Person B training environment was:
 
 ```text
 Windows
